@@ -1,7 +1,7 @@
 # Web3-Security-Portfolio
 Showcasing my performance in different audit contest platforms
 
-# Achievements in Audit Contests
+## Audit Contests Performance
 
 | Contest                                                                  | Platform  | Type of protocol              | Findings| Date | My report|Info                                                                                     |
 | :----------------------------------------------------------------------- | :-------- | :---------------------------- | :------------------------- |--- |:--------------------------------------------------------------------------------------------- |-------------------------| 
