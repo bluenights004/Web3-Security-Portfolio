@@ -9,7 +9,7 @@ Showcasing my performance in different audit contest platforms
 ## CodeArena
 | Contest           | Type of protocol         | Findings | Date    | Detailed report              |
 |-------------------|--------------------------|----------|---------|------------------------------|
-| Noya             | Liquidity management         | 1H 1M    | 05.2024 | not yet released          | 
+| Noya             | Liquidity Management         | 1H 1M    | 05.2024 | not yet released          | 
 | Renzo             | Liquid Restaking         | 1H 1M    | 04.2024 | [Malicious user can deposit low valued collateral LST ](https://code4rena.com/findings/past-finding/372?repo_name=2024-04-renzo-findings&issue_number=251)   |    
 | Dyad              | Stablecoin               | 1M       | 04.2024 | [Protocol allows small loans](https://code4rena.com/findings/past-finding/367?repo_name=2024-04-dyad-findings&issue_number=945)   |           
 | Revert Lend       | Lending                  | 1H       | 03.2024 | [Malicious borrower can DOS the liquidation](https://github.com/code-423n4/2024-03-revert-lend-findings/issues/290)   |           |
